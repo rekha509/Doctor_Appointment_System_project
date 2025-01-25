@@ -1,5 +1,5 @@
 # Doctor_Appointment_System_project
-A web-based doctor appointment system buikt using:
+A web-based doctor appointment system built using:
 PHP,Laravel,MySQL,Bootstrap
 
 Features:
